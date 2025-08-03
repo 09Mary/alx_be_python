@@ -1,5 +1,5 @@
 import unittest
-from simple_Calculator import SimpleCalculator
+from simple_calculator import SimpleCalculator  # type: ignore
 
 class TestSimpleCalculator(unittest.TestCase):
 
